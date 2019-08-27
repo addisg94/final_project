@@ -1,0 +1,21 @@
+#!/bin/bash
+
+chmod -x sep_NR_pdb_codes.py
+chmod -x del_copied_ab.py
+chmod -x del_copied_ab_frcom.py
+chmod -x abpackingangleExecute.py
+chmod -x sd_var_red_ab_graph.py
+chmod -x var_red_ab_graph.py
+chmod -x free_complex_sd_graph.py
+
+python3 sep_NR_pdb_codes.py
+python3 del_copied_ab.py
+python3 del_copied_ab_frcom.py
+python3 abpackingangleExecute.py
+python3 sd_var_red_ab_graph.py
+python3 var_red_ab_graph.py
+python3 free_complex_sd_graph.py
+
+
+
+
